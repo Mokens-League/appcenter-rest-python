@@ -1,6 +1,6 @@
 This is a minimal Python wrapper around the App Center REST APIs to get you up and running. If you are looking for something more substantial, please refer to the REST API documentation: https://openapi.appcenter.ms/
 
-You can install with `pip install appcenter`
+You can install with `pip install git+https://github.com/Mokens-League/appcenter-rest-python.git@4.0.1`
 
 ## Usage
 
